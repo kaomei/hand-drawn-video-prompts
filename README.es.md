@@ -16,7 +16,7 @@ Un Skill de IA de código abierto diseñado para creadores de videos explicativo
 
 <br/>
 
-<img src="outputs/q-doodle-style-reference.png" alt="Referencia de Estilo Visual" width="340">
+<img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/outputs/q-doodle-style-reference.png" alt="Referencia de Estilo Visual" width="340">
 
 <br/>
 
@@ -45,7 +45,7 @@ Mira los videos verticales generados con este flujo de trabajo directamente (**h
 
 | 📱 Caso 1: Inversión en IA y Realidad Financiera (Demo 722) | 📱 Caso 2: Validación Tecnológica (Demo 723) |
 |:---:|:---:|
-| <a href="demo/hand-drawn-video-demo-722.mp4"><img src="demo/hand-drawn-video-demo-722.gif" alt="Demostración Demo 722" width="320"></a> | <a href="demo/hand-drawn-video-demo-723.mp4"><img src="demo/hand-drawn-video-demo-723.gif" alt="Demostración Demo 723" width="320"></a> |
+| <a href="demo/hand-drawn-video-demo-722.mp4"><img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/demo/hand-drawn-video-demo-722.gif" alt="Demostración Demo 722" width="320"></a> | <a href="demo/hand-drawn-video-demo-723.mp4"><img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/demo/hand-drawn-video-demo-723.gif" alt="Demostración Demo 723" width="320"></a> |
 | ⏱️ **Video de 32s** · [Abrir Video 🔊](demo/hand-drawn-video-demo-722.mp4) | ⏱️ **Video de 41s** · [Abrir Video 🔊](demo/hand-drawn-video-demo-723.mp4) |
 
 </div>
@@ -58,7 +58,7 @@ Mira los videos verticales generados con este flujo de trabajo directamente (**h
 
 | Muestra Estática Toma 01 (Fondo `#F8F6EF`) | Muestra Estática Toma 02 (Metáfora Visual) |
 |:---:|:---:|
-| <img src="outputs/q-doodle-shot-01.png" alt="Muestra Toma 01" width="320"> | <img src="outputs/q-doodle-shot-02.png" alt="Muestra Toma 02" width="320"> |
+| <img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/outputs/q-doodle-shot-01.png" alt="Muestra Toma 01" width="320"> | <img src="https://fastly.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/outputs/q-doodle-shot-02.png" alt="Muestra Toma 02" width="320"> |
 
 </div>
 

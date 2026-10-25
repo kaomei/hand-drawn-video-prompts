@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="outputs/q-doodle-style-reference.png" alt="手绘风视频风格参考预览" width="340">
+<img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/outputs/q-doodle-style-reference.png" alt="手绘风视频风格参考预览" width="340">
 
 <br/>
 
@@ -45,7 +45,7 @@
 
 | 📱 案例一：AI 资本支出与商业闭环 (Demo 722) | 📱 案例二：技术落地与现实验证 (Demo 723) |
 |:---:|:---:|
-| <a href="demo/hand-drawn-video-demo-722.mp4"><img src="demo/hand-drawn-video-demo-722.gif" alt="Demo 722 动态演示" width="320"></a> | <a href="demo/hand-drawn-video-demo-723.mp4"><img src="demo/hand-drawn-video-demo-723.gif" alt="Demo 723 动态演示" width="320"></a> |
+| <a href="demo/hand-drawn-video-demo-722.mp4"><img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/demo/hand-drawn-video-demo-722.gif" alt="Demo 722 动态演示" width="320"></a> | <a href="demo/hand-drawn-video-demo-723.mp4"><img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/demo/hand-drawn-video-demo-723.gif" alt="Demo 723 动态演示" width="320"></a> |
 | ⏱️ **32 秒成片** · [点击打开原片 🔊](demo/hand-drawn-video-demo-722.mp4) | ⏱️ **41 秒成片** · [点击打开原片 🔊](demo/hand-drawn-video-demo-723.mp4) |
 
 </div>
@@ -58,7 +58,7 @@
 
 | 镜头 01 静帧样片 (`#F8F6EF` 底色) | 镜头 02 静帧样片 (视觉隐喻构图) |
 |:---:|:---:|
-| <img src="outputs/q-doodle-shot-01.png" alt="镜头01样片" width="320"> | <img src="outputs/q-doodle-shot-02.png" alt="镜头02样片" width="320"> |
+| <img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/outputs/q-doodle-shot-01.png" alt="镜头01样片" width="320"> | <img src="https://fastly.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/outputs/q-doodle-shot-02.png" alt="镜头02样片" width="320"> |
 
 </div>
 

@@ -16,7 +16,7 @@ AI 지식 해설, 테크/경제 리뷰, 교육용 숏폼 크리에이터를 위�
 
 <br/>
 
-<img src="outputs/q-doodle-style-reference.png" alt="손그림 스타일 레퍼런스" width="340">
+<img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/outputs/q-doodle-style-reference.png" alt="손그림 스타일 레퍼런스" width="340">
 
 <br/>
 
@@ -45,7 +45,7 @@ AI 지식 해설, 테크/경제 리뷰, 교육용 숏폼 크리에이터를 위�
 
 | 📱 사례 1: AI 투자와 시장 현실 (Demo 722) | 📱 사례 2: 기술 검증과 비즈니스화 (Demo 723) |
 |:---:|:---:|
-| <a href="demo/hand-drawn-video-demo-722.mp4"><img src="demo/hand-drawn-video-demo-722.gif" alt="Demo 722 미리보기" width="320"></a> | <a href="demo/hand-drawn-video-demo-723.mp4"><img src="demo/hand-drawn-video-demo-723.gif" alt="Demo 723 미리보기" width="320"></a> |
+| <a href="demo/hand-drawn-video-demo-722.mp4"><img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/demo/hand-drawn-video-demo-722.gif" alt="Demo 722 미리보기" width="320"></a> | <a href="demo/hand-drawn-video-demo-723.mp4"><img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/demo/hand-drawn-video-demo-723.gif" alt="Demo 723 미리보기" width="320"></a> |
 | ⏱️ **32초 완성본** · [영상 열기 🔊](demo/hand-drawn-video-demo-722.mp4) | ⏱️ **41초 완성본** · [영상 열기 🔊](demo/hand-drawn-video-demo-723.mp4) |
 
 </div>
@@ -58,7 +58,7 @@ AI 지식 해설, 테크/경제 리뷰, 교육용 숏폼 크리에이터를 위�
 
 | 컷 01 정지 이미지 샘플 (`#F8F6EF` 배경) | 컷 02 정지 이미지 샘플 (시각적 은유) |
 |:---:|:---:|
-| <img src="outputs/q-doodle-shot-01.png" alt="컷01 샘플" width="320"> | <img src="outputs/q-doodle-shot-02.png" alt="컷02 샘플" width="320"> |
+| <img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/outputs/q-doodle-shot-01.png" alt="컷01 샘플" width="320"> | <img src="https://fastly.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/outputs/q-doodle-shot-02.png" alt="컷02 샘플" width="320"> |
 
 </div>
 

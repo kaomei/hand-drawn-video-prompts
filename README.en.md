@@ -16,7 +16,7 @@ An open-source AI Skill designed for AI explainers, financial commentary, tech i
 
 <br/>
 
-<img src="outputs/q-doodle-style-reference.png" alt="Hand-Drawn Video Style Reference Preview" width="340">
+<img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/outputs/q-doodle-style-reference.png" alt="Hand-Drawn Video Style Reference Preview" width="340">
 
 <br/>
 
@@ -45,7 +45,7 @@ Watch the animated demo videos generated with this workflow directly (**click GI
 
 | 📱 Case 1: AI CapEx & Financial Reality (Demo 722) | 📱 Case 2: Tech Validation & Commercialization (Demo 723) |
 |:---:|:---:|
-| <a href="demo/hand-drawn-video-demo-722.mp4"><img src="demo/hand-drawn-video-demo-722.gif" alt="Demo 722 Animated Preview" width="320"></a> | <a href="demo/hand-drawn-video-demo-723.mp4"><img src="demo/hand-drawn-video-demo-723.gif" alt="Demo 723 Animated Preview" width="320"></a> |
+| <a href="demo/hand-drawn-video-demo-722.mp4"><img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/demo/hand-drawn-video-demo-722.gif" alt="Demo 722 Animated Preview" width="320"></a> | <a href="demo/hand-drawn-video-demo-723.mp4"><img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/demo/hand-drawn-video-demo-723.gif" alt="Demo 723 Animated Preview" width="320"></a> |
 | ⏱️ **32s Film** · [Open Full Video 🔊](demo/hand-drawn-video-demo-722.mp4) | ⏱️ **41s Film** · [Open Full Video 🔊](demo/hand-drawn-video-demo-723.mp4) |
 
 </div>
@@ -58,7 +58,7 @@ Watch the animated demo videos generated with this workflow directly (**click GI
 
 | Shot 01 Still Sample (`#F8F6EF` Canvas) | Shot 02 Still Sample (Visual Metaphor) |
 |:---:|:---:|
-| <img src="outputs/q-doodle-shot-01.png" alt="Shot 01 Still Sample" width="320"> | <img src="outputs/q-doodle-shot-02.png" alt="Shot 02 Still Sample" width="320"> |
+| <img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/outputs/q-doodle-shot-01.png" alt="Shot 01 Still Sample" width="320"> | <img src="https://fastly.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/outputs/q-doodle-shot-02.png" alt="Shot 02 Still Sample" width="320"> |
 
 </div>
 

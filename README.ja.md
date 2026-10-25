@@ -16,7 +16,7 @@ AI解説、金融・ビジネス考察、テクノロジー評論、教育系シ
 
 <br/>
 
-<img src="outputs/q-doodle-style-reference.png" alt="手描き風ビジュアルリファレンス" width="340">
+<img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/outputs/q-doodle-style-reference.png" alt="手描き風ビジュアルリファレンス" width="340">
 
 <br/>
 
@@ -45,7 +45,7 @@ AI解説、金融・ビジネス考察、テクノロジー評論、教育系シ
 
 | 📱 事例1：AI設備投資と現実 (Demo 722) | 📱 事例2：技術検証とビジネス化 (Demo 723) |
 |:---:|:---:|
-| <a href="demo/hand-drawn-video-demo-722.mp4"><img src="demo/hand-drawn-video-demo-722.gif" alt="Demo 722 プレビュー" width="320"></a> | <a href="demo/hand-drawn-video-demo-723.mp4"><img src="demo/hand-drawn-video-demo-723.gif" alt="Demo 723 プレビュー" width="320"></a> |
+| <a href="demo/hand-drawn-video-demo-722.mp4"><img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/demo/hand-drawn-video-demo-722.gif" alt="Demo 722 プレビュー" width="320"></a> | <a href="demo/hand-drawn-video-demo-723.mp4"><img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/demo/hand-drawn-video-demo-723.gif" alt="Demo 723 プレビュー" width="320"></a> |
 | ⏱️ **32秒動画** · [動画を開く 🔊](demo/hand-drawn-video-demo-722.mp4) | ⏱️ **41秒動画** · [動画を開く 🔊](demo/hand-drawn-video-demo-723.mp4) |
 
 </div>
@@ -58,7 +58,7 @@ AI解説、金融・ビジネス考察、テクノロジー評論、教育系シ
 
 | カット 01 静止画サンプル (`#F8F6EF` 背景) | カット 02 静止画サンプル (メタファー構図) |
 |:---:|:---:|
-| <img src="outputs/q-doodle-shot-01.png" alt="カット01静止画" width="320"> | <img src="outputs/q-doodle-shot-02.png" alt="カット02静止画" width="320"> |
+| <img src="https://cdn.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/outputs/q-doodle-shot-01.png" alt="カット01静止画" width="320"> | <img src="https://fastly.jsdelivr.net/gh/kaomei/hand-drawn-video-prompts@dae2da391d58fdd42c7c4475742eb4c989cf53f2/outputs/q-doodle-shot-02.png" alt="カット02静止画" width="320"> |
 
 </div>
 
